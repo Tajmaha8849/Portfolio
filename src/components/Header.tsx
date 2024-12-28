@@ -23,7 +23,7 @@ const Header = () => {
             <a href="https://github.com/Tajmaha8849" className="text-gray-600 hover:text-gray-900">
               <Github size={20} />
             </a>
-            <a href="https://linkedin.com/in/shubhamprajapati" className="text-gray-600 hover:text-gray-900">
+            <a href="https://www.linkedin.com/in/shubham-prajapati-4a4262241/" className="text-gray-600 hover:text-gray-900">
               <Linkedin size={20} />
             </a>
             <a href="mailto:shubham.prajapati9297@gmail.com" className="text-gray-600 hover:text-gray-900">
