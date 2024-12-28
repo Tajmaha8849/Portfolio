@@ -1,6 +1,6 @@
 import React from 'react';
 import { Github, Linkedin, Mail, Download } from 'lucide-react';
-import '/resume.pdf'
+
 
 const Hero = () => {
   return (
