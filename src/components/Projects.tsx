@@ -7,6 +7,7 @@ const projects = [
     description: 'A comprehensive educational platform enabling students and educators to connect seamlessly, with over 200 active users.',
     tech: ['MERN Stack', 'Authentication', 'Responsive Design'],
     liveLink: 'https://edu-connect-sigma.vercel.app/',
+    gitLink:'https://github.com/Tajmaha8849/EduConnect',
     image: 'https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
   },
   {
@@ -14,6 +15,7 @@ const projects = [
     description: 'Enhanced job seeker platform with admin posting capabilities, resulting in 15% increase in successful job placements.',
     tech: ['MERN Stack', 'Email Notifications', 'Authentication'],
     liveLink: 'https://client-two-iota-81.vercel.app/',
+      gitLink:'https://github.com/Tajmaha8849/EduConnect',
     image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
   },
   {
@@ -21,6 +23,7 @@ const projects = [
     description: 'Robust real estate platform with advanced search and filtering features, achieving over 150 active users.',
     tech: ['MERN Stack', 'MongoDB', 'React'],
     liveLink: 'https://heaven-realestate.onrender.com/',
+    gitLink:'https://github.com/Tajmaha8849/EduConnect',
     image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
   },
   {
@@ -28,6 +31,7 @@ const projects = [
     description: 'Flask-based application for sending automated emails with customizable templates and bulk email support.',
     tech: ['Flask', 'Email Automation', 'Python'],
     liveLink: 'https://my-mail-app.vercel.app/',
+    gitLink:'https://github.com/Tajmaha8849/EduConnect',
     image: 'https://images.unsplash.com/photo-1557200134-90327ee9fafa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
   },
 ];
@@ -67,7 +71,7 @@ const Projects = () => {
                     Live Demo
                   </a>
                   <a
-                    href="#"
+                    href={project.gitLink}
                     className="flex items-center gap-2 text-gray-600 hover:text-gray-800"
                   >
                     <Github size={16} />
