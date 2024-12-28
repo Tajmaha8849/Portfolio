@@ -41,7 +41,7 @@ const projects = [
     liveLink: 'https://easyinvoicepro.netlify.app/',
     gitLink:'https://github.com/Tajmaha8849/EasyInvoicePro/',
     image: 'https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
-  }
+  },
 ];
 
 const Projects = () => {
