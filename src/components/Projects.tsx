@@ -15,7 +15,7 @@ const projects = [
     description: 'Enhanced job seeker platform with admin posting capabilities, resulting in 15% increase in successful job placements.',
     tech: ['MERN Stack', 'Email Notifications', 'Authentication'],
     liveLink: 'https://client-two-iota-81.vercel.app/',
-      gitLink:'https://github.com/Tajmaha8849/EduConnect',
+      gitLink:'https://github.com/Tajmaha8849/client',
     image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
   },
   {
@@ -23,7 +23,7 @@ const projects = [
     description: 'Robust real estate platform with advanced search and filtering features, achieving over 150 active users.',
     tech: ['MERN Stack', 'MongoDB', 'React'],
     liveLink: 'https://heaven-realestate.onrender.com/',
-    gitLink:'https://github.com/Tajmaha8849/EduConnect',
+    gitLink:'https://github.com/Tajmaha8849/HeavenHub_Estate',
     image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
   },
   {
@@ -31,7 +31,7 @@ const projects = [
     description: 'Flask-based application for sending automated emails with customizable templates and bulk email support.',
     tech: ['Flask', 'Email Automation', 'Python'],
     liveLink: 'https://my-mail-app.vercel.app/',
-    gitLink:'https://github.com/Tajmaha8849/EduConnect',
+    gitLink:'https://github.com/Tajmaha8849/My_Mail_App',
     image: 'https://images.unsplash.com/photo-1557200134-90327ee9fafa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
   },
 ];
