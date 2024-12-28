@@ -34,6 +34,14 @@ const projects = [
     gitLink:'https://github.com/Tajmaha8849/My_Mail_App',
     image: 'https://images.unsplash.com/photo-1557200134-90327ee9fafa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
   },
+  {
+    title: 'EsayInvoice Pro',
+    description: 'A "built invoice generator project" is a web application or software program designed to streamline the process of creating professional invoices by allowing users to input customer details, itemized product/service information, and generate a formatted invoice document (usually in PDF format) with the option to customize branding elements like logos and colors, all within a user-friendly interface.',
+    tech: ['MERN Stack', 'Authentication', 'Responsive Design'],
+    liveLink: 'https://easyinvoicepro.netlify.app/',
+    gitLink:'https://github.com/Tajmaha8849/EasyInvoicePro/',
+    image: 'https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
+  }
 ];
 
 const Projects = () => {
