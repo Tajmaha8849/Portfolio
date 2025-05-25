@@ -45,9 +45,9 @@ const projects = [
   {
   title: 'Expense Tracker',
   description: 'A full-stack expense management application that helps users track daily spending, set budgets, and analyze financial habits.',
-  tech: ['MERN Stack', 'JWT Authentication', 'Chart.js', 'Responsive UI'],
-  liveLink: 'https://expense-tracker-theta-lac.vercel.app/', // Replace with your actual live URL
-  gitLink: 'https://github.com/Tajmaha8849/ExpenseTracker', // Replace with your actual GitHub repo
+  tech: ['React', 'Flask', 'MongoDB', 'JWT Authentication', 'Chart.js', 'Responsive UI'],
+  liveLink: 'https://expense-tracker-theta-lac.vercel.app/',
+  gitLink: 'https://github.com/Tajmaha8849/ExpenseTracker',
   image: 'https://images.unsplash.com/photo-1588776814546-ec7e2904c694?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80'
 }
 
