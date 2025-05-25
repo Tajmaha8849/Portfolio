@@ -5,12 +5,12 @@ const skillCategories = [
   {
     title: 'Languages',
     icon: <Code className="w-6 h-6" />,
-    skills: ['JavaScript', 'Python', 'Java', 'Golang', 'Kotlin', 'C'],
+    skills: ['JavaScript', 'Python', 'Java', 'C++', 'C'],
   },
   {
     title: 'Frameworks',
     icon: <Globe className="w-6 h-6" />,
-    skills: ['MERN Stack', 'Flask', 'Django'],
+    skills: ['MERN Stack', 'Flask'],
   },
   {
     title: 'Tools',
