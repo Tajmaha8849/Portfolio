@@ -21,13 +21,16 @@ const Hero = () => {
               >
                 Contact Me
               </a>
-              <a
-                href="/https://drive.google.com/drive/u/0/folders/1Om556zvLvk8DfTuEqt9z4r2dAFL8I1AF"
-                className="border border-indigo-600 text-indigo-600 px-8 py-3 rounded-lg hover:bg-indigo-50 transition flex items-center gap-2"
-              >
-                <Download size={20} />
-                Download CV
-              </a>
+             <a
+  href="https://drive.google.com/drive/u/0/folders/1Om556zvLvk8DfTuEqt9z4r2dAFL8I1AF"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="border border-indigo-600 text-indigo-600 px-8 py-3 rounded-lg hover:bg-indigo-50 transition flex items-center gap-2"
+>
+  <Download size={20} />
+  Download CV
+</a>
+
             </div>
             <div className="flex gap-6 mt-8 justify-center md:justify-start">
               <a href="https://github.com/Tajmaha8849" className="text-gray-600 hover:text-gray-900">
