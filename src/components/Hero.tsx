@@ -22,7 +22,7 @@ const Hero = () => {
                 Contact Me
               </a>
               <a
-                href="/resume.pdf"
+                href="/https://drive.google.com/drive/u/0/folders/1Om556zvLvk8DfTuEqt9z4r2dAFL8I1AF"
                 className="border border-indigo-600 text-indigo-600 px-8 py-3 rounded-lg hover:bg-indigo-50 transition flex items-center gap-2"
               >
                 <Download size={20} />
